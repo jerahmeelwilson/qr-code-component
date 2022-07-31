@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./screenshot.png)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [View Here](https://jerahmeelwilson.github.io/qr-code-component/)
 
 ## My process
 
@@ -42,5 +42,5 @@ In the future I am focusing on continuing to improve my skills in HTML, CSS, Jav
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/jerahmeelwilson)
+- Frontend Mentor - [@jerahmeelwilson](https://www.frontendmentor.io/profile/jerahmeelwilson)
 
